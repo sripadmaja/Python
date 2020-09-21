@@ -1,5 +1,5 @@
 import random
-number=random.randint(1,100)#computer will generate a number between 1 to 10
+number=random.randint(1,100)#computer will generate a number between 1 to 100
 name=input("HELLO WHAT'S YOUR NAME")
 print("okay" +name+ "guess a number between 1 to 100")
 def ng(n):
